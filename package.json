@@ -18,16 +18,9 @@
     "dist"
   ],
   "type": "module",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hymhub/pdf-vue3.git"
-  },
-  "author": "hyminghan",
+  "author": "Zqooo",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hymhub/pdf-vue3/issues"
-  },
-  "homepage": "https://github.com/hymhub/pdf-vue3#readme",
+  "homepage": "https://github.com/zqooo/pdf-vue3#readme",
   "keywords": [
     "pdf-vue3",
     "pdf",
